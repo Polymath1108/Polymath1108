@@ -15,11 +15,15 @@
 - **Open to work on position:** Senior AI developer
 - **Interested in:** Data science, AI project(Prompt Engineering, Data Scraping, NLP, Generative AI, Coputer Vision), Web project(MERN, Next, GraphQL, Web3, Webflow, Wordpress)
 - **Hobby:** Football, Swimming
+  
+<!--- 
 ### 🌐 Connect with me:  
 - [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/softlight1012) - @softlight1012
 - [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/vhUyzmWz) - polygon118
 - [![Skype](https://img.shields.io/badge/Skype-00AFF0?style=flat&logo=skype&logoColor=white)](skype:live:.cid.16dac497b946b44b?chat) - live:.cid.16dac497b946b44b
 - [![Email](https://img.shields.io/badge/Email-mailto%3Aruka59171%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:ruka59171@gmail.com)
+
+-->
 
 ### 🤷‍♂️ What I can do
 - <b>Chatbot and Virtual Assistants</b> (experienced no-code chatbot builder)
