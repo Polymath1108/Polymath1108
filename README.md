@@ -1,7 +1,7 @@
 
 <div style="display: flex;  flex-direction: row; justify-content: center; align-items: center;">
    <h1 align="center" >
-      <a href="https://t.me/softlight1012" style="color: blue; font-size:25px; text-decoration: none;" 
+      <a href="" style="color: blue; font-size:25px; text-decoration: none;" 
       onmouseover="this.style.textDecoration='underline'" 
       onmouseout="this.style.textDecoration='none'">
        <b>AI Engineer | Fullstack Developer</b>
