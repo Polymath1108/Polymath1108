@@ -5,7 +5,7 @@
       onmouseover="this.style.textDecoration='underline'" 
       onmouseout="this.style.textDecoration='none'">
        <b>AI Engineer | Fullstack Developer</b>
-      </a> 👈 Click to contact
+      </a>
    </h1> 
 </div>
 <br>
