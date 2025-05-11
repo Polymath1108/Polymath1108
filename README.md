@@ -31,7 +31,7 @@
 - <b>NLP</b> ( text analysis )
 - <b>Automation</b> (n8n, Zapier, make.com, crew)
 - <b>Computer Vision</b> ( OpenCV, object detection, face recognition, image & video processing)
-- <b>Generative AI</b
+- <b>Generative AI</b>
 - <b>Web project</b> (MERN, Next, Django, FastAPI, GraphQL, Web3, Webflow, Wordpress)
 ### ⚔ TECHNOLOGY
 
