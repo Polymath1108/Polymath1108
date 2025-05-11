@@ -13,8 +13,8 @@
 ### 💎 ABOUT ME
 
 - **Open to work on position:** Senior AI developer
-- **Interested in:** Data science, AI project(Prompt Engineering, Data Scraping, NLP, Generative AI, Coputer Vision), Web project(MERN, Next, GraphQL, Web3, Webflow, Wordpress)
-- **Hobby:** Football, Swimming
+- **Interested in:** Data science, AI Models, 
+- **Hobby:** Reading Book, Football, Swimming
   
 <!--- 
 ### 🌐 Connect with me:  
@@ -26,11 +26,13 @@
 -->
 
 ### 🤷‍♂️ What I can do
+- <b>ML model</b> ( Algorithmic Trading, Fraud Detection )
 - <b>Chatbot and Virtual Assistants</b> (experienced no-code chatbot builder)
 - <b>NLP</b> ( text analysis )
+- <b>Automation</b> (n8n, Zapier, make.com, crew)
 - <b>Computer Vision</b> ( OpenCV, object detection, face recognition, image & video processing)
-- <b>Generative AI</b>
-- <b>ML model</b> ( Algorithmic Trading, Fraud Detection )
+- <b>Generative AI</b
+- <b>Web project</b> (MERN, Next, Django, FastAPI, GraphQL, Web3, Webflow, Wordpress)
 ### ⚔ TECHNOLOGY
 
 <table align="center">
