@@ -27,7 +27,7 @@
 
 ### 🤷‍♂️ What I can do
 - <b>ML model</b> ( times series forecasting, prediction model , Fraud Detection )
-- <b>Chatbot and Virtual Assistants</b>
+- <b>Chatbot and AI agent</b>
 - <b>NLP</b> ( text analysis )
 - <b>Automation</b> (n8n, Zapier, make.com, crew)
 - <b>Computer Vision</b> ( OpenCV, object detection, face recognition, image & video processing)
