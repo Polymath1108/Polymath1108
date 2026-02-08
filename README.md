@@ -32,8 +32,8 @@
 - <b>Automation</b> (n8n, Zapier, make.com, crew)
 - <b>Computer Vision</b> ( OpenCV, object detection, face recognition, image & video processing)
 - <b>Generative AI</b>
-- <b>Web project</b> (MERN, Next, Django, FastAPI, GraphQL, Web3, Webflow, Wordpress)
-- Docker, CI/CD, GCP, AWS/Terraform
+- <b>Web project</b> (MERN, Next, Nest/Nuxt, Django, FastAPI, GraphQL, Web3, Webflow, Wordpress)
+- <b>DevOps/Cloud</b> ( Docker, CI/CD, GCP, AWS/Terraform )
 ### ⚔ TECHNOLOGY
 
 <table align="center">
