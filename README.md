@@ -12,7 +12,7 @@
 
 ### 💎 ABOUT ME
 
-- **Open to work on position:** Senior AI developer
+- **Open to work on position:** Senior fullstack developer, AI engineer
 - **Interested in:** Data science, AI Models, 
 - **Hobby:** Reading Book, Football, Swimming
   
@@ -26,13 +26,14 @@
 -->
 
 ### 🤷‍♂️ What I can do
-- <b>ML model</b> ( Algorithmic Trading, Fraud Detection )
-- <b>Chatbot and Virtual Assistants</b> (experienced no-code chatbot builder)
+- <b>ML model</b> ( times series forecasting, prediction model , Fraud Detection )
+- <b>Chatbot and Virtual Assistants</b>
 - <b>NLP</b> ( text analysis )
 - <b>Automation</b> (n8n, Zapier, make.com, crew)
 - <b>Computer Vision</b> ( OpenCV, object detection, face recognition, image & video processing)
 - <b>Generative AI</b>
 - <b>Web project</b> (MERN, Next, Django, FastAPI, GraphQL, Web3, Webflow, Wordpress)
+- Docker, CI/CD, GCP, AWS/Terraform
 ### ⚔ TECHNOLOGY
 
 <table align="center">
